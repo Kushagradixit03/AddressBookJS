@@ -15,5 +15,5 @@ class Contact {
     }
 }
 
-let contact = new Contact("Riya", "Bansal", "123 Main St", "New York", "NY", "10001", "1234567890", "riyabansal3365@gmail.com");
+let contact = new Contact("", "Bansal", "123 Main St", "New York", "NY", "10001", "1234567890", "riyabansal3365@gmail.com");
 console.log(contact.toString());
